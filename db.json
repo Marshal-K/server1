@@ -1,1 +1,50 @@
-
+[
+    {
+        "instance_name": "SSO_DEV",
+        "restart": "true",
+        "started": "yes",
+        "id": "SSO_DEV",
+        "version": "1573654605",
+        "enabled": "yes"
+    },
+    {
+        "instance_name": "2FATest",
+        "restart": "true",
+        "started": "yes",
+        "id": "2FATest",
+        "version": "1573654605",
+        "enabled": "yes"
+    },
+    {
+        "instance_name": "robz",
+        "restart": "true",
+        "started": "yes",
+        "id": "robz",
+        "version": "1573654605",
+        "enabled": "yes"
+    },
+    {
+        "instance_name": "SSO_HR",
+        "restart": "false",
+        "started": "yes",
+        "id": "SSO_HR",
+        "version": "1574926771",
+        "enabled": "yes"
+    },
+    {
+        "instance_name": "sso_devArchive",
+        "restart": "true",
+        "started": "yes",
+        "id": "sso_devArchive",
+        "version": "1573654606",
+        "enabled": "yes"
+    },
+    {
+        "instance_name": "sso_devEbucks",
+        "restart": "true",
+        "started": "yes",
+        "id": "sso_devEbucks",
+        "version": "1573654606",
+        "enabled": "yes"
+    }
+]
